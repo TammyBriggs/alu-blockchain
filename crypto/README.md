@@ -1,1 +1,1 @@
-LET'S GET IT!!
+This assignment involves building the fundamental cryptographic layer of a blockchain by implementing SHA256 hashing for data integrity and Elliptic Curve Digital Signature Algorithm (ECDSA) for secure identity management and transaction authorization.
